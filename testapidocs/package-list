@@ -1,0 +1,7 @@
+org.jdbdt
+org.jdbdt.tcfg.derby
+org.jdbdt.tcfg.h2
+org.jdbdt.tcfg.hsqlsb
+org.jdbdt.tcfg.mysql
+org.jdbdt.tcfg.postgresql
+org.jdbdt.tcfg.sqlite
